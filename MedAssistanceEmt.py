@@ -71,5 +71,3 @@ def handler(event, context):
                 'Content-Type': 'text/html'
             }
     }
-
-    return {"message": "Successfully executed"}

@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "MedAssistanceEmt.py",
         "cursor": {
-          "lineNumber": 13,
-          "column": 415
+          "lineNumber": 73,
+          "column": 6
         },
         "config": {
           "runtime": "python3.8",

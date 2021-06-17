@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "MedAssistanceEmt.py",
         "cursor": {
-          "lineNumber": 14,
-          "column": 455
+          "lineNumber": 13,
+          "column": 415
         },
         "config": {
           "runtime": "python3.8",
@@ -84,7 +84,8 @@
     "projectRegion": "ap-southeast-2",
     "platform": "AWS",
     "language": "python",
-    "platformRegions": {}
+    "platformRegions": {},
+    "lastSave": 1623911374143
   },
   "VCS_STATE": {
     "provider": "GitHub",
